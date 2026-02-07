@@ -36,3 +36,16 @@ Jenkins detects changes and triggers the pipeline
 Jenkins copies website files to /var/www/html
 
 Nginx serves the updated website
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Tools & Technologies
+
+Cloud: AWS EC2 (Ubuntu)
+
+CI/CD: Jenkins
+
+Web Server: Nginx
+
+Version Control: Git & GitHub
+
+OS: Linux
